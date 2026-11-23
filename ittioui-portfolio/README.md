@@ -11,3 +11,4 @@ A bilingual (English/Spanish), dark, responsive React portfolio based only on th
 - Experience, skills, education, languages and contact sections
 - CV PDF included in `public/`
 - Relative asset base configured for GitHub Pages project sites
+
